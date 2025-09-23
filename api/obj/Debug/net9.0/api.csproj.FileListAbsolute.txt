@@ -31,3 +31,7 @@ C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\obj\Debug\net9.0\refint\
 C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\obj\Debug\net9.0\api.pdb
 C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\obj\Debug\net9.0\ref\api.dll
+C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Charles\Desktop\AgriKita-Backend-API-.NET-\api\bin\Debug\net9.0\Scalar.AspNetCore.dll
